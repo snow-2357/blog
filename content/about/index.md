@@ -20,7 +20,7 @@ Fullstack Developer with 2 years of **experience** building efficient, scalable,
 
 ### **WORK**
 
-**Hashtag Systems, **  
+**Hashtag Systems**  
 May 2022 - PRESENT  
 Fullstack Developer
 
