@@ -9,7 +9,7 @@ eleventyNavigation:
 
 ---
 
-Fullstack Developer with 2 years of **experience** building efficient, scalable, and maintainable software solutions that align with the top industry standards.
+Fullstack Developer with 2 years of experience building efficient, scalable, and maintainable software solutions that align with the top industry standards.
 
 ### **CONTACT**
 
@@ -26,7 +26,7 @@ Fullstack Developer
 
 ### **EDUCATION**
 
-**Central Institute of Technology, Silchar**  
+**Central Institute of Technology, Kokrajhar**  
 JUN 2017 - JUN 2021  
 Computer Science and Engineering (Bachelor)  
 CGPA 7.35
