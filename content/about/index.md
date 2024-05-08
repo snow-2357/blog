@@ -5,7 +5,7 @@ eleventyNavigation:
   order: 3
 ---
 
-## <span style="font-size:2.7em;">**Simanta Ray**</span>
+## <span style="font-size:2em;">**Simanta Ray**</span>
 
 ---
 
@@ -21,13 +21,13 @@ Fullstack Developer with 2 years of experience building efficient, scalable, and
 ### **WORK**
 
 **Hashtag Systems**  
-May 2022 - PRESENT  
+_May 2022 - PRESENT_  
 Fullstack Developer
 
 ### **EDUCATION**
 
 **Central Institute of Technology, Kokrajhar**  
-JUN 2017 - JUN 2021  
+_JUN 2017 - JUN 2021_  
 Computer Science and Engineering (Bachelor)  
 CGPA 7.35
 
