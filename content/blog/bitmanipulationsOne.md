@@ -154,3 +154,29 @@ function countBit(N) {
 	return count;
 }
 ```
+
+- **Remove first set bit from LSB**
+  - To remove the first set bit from least significant bit (LSB) from a binary number N, you can use the bitwise AND operation with N-1
+
+```js
+function countBit(N) {
+	let count = 0;
+	while (N) {
+		count++;
+		N = N & (N - 1);
+	}
+	return count;
+}
+```
+
+Example:
+
+```js
+N = 26          1  1  0  1  0
+
+N & (N-1) =24   1  1  0  0  0
+
+N & (N-1) =16   1  0  0  0  0
+
+N & (N-1) =0    0  0  0  0  0
+```
