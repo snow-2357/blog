@@ -1,6 +1,6 @@
 ---
 title: Bit Manipulations I.
-description: .
+description: Bit manipulation is a powerful tool that can improve the complexity of algorithms in clever ways. Bit manipulation involves looking at data in a binary form, and manipulating the "bits" in this form.
 date: 2024-05-10
 tags:
   - dsa

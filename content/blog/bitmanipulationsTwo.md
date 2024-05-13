@@ -1,6 +1,6 @@
 ---
 title: Bit Manipulations II.
-description: .
+description: A bitmask allows focusing on specific bits within a number. By setting a single bit in a mask and performing bitwise operations with it and another number,only the corresponding bit positions are affected. For instance, to isolate the 2nd bit of a number x, a mask is shifted left twice. Checking if the 2nd bit is set involves using the AND operation between the mask and x; if the result is non-zero, the bit is flipped. To flip the 2nd bit of x, a bitwise XOR operation between the mask and x is executed, leaving other bits unchanged. XORing with 0 preserves x, while XORing with 1 flips it
 date: 2024-05-11
 tags:
   - dsa
@@ -38,6 +38,7 @@ Output: 4
 ```
 
 - Explain :
+
   - From the above example, we can see that those elements occurring twice don't contribute to the bits in the solution. Therefore, we can use XOR to remove those elements occurring twice.
 
 > Note: We can also count the number of set bits and then take the mod of the count by 2. This approach will be valuable for future questions.
@@ -55,7 +56,6 @@ const singleNumber(nums){
   }
   return sol
 }
-
 ```
 
 ---
