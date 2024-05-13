@@ -1,6 +1,6 @@
 ---
-title: Bit Manipulations.
-description: This is a post on My Blog about agile frameworks.
+title: Bit Manipulations I.
+description: .
 date: 2024-05-10
 tags:
   - dsa
