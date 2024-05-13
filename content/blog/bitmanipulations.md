@@ -124,3 +124,33 @@ Example :
     -----------
     1 1 1 1 0 1
 ```
+
+### Useful Utils :
+
+- **Unset the ith bit of a Number**
+
+```js
+function checkBit(N, i) {
+	return !(N & (1 << i)) == 0;
+}
+
+function unsetBit(N, i) {
+	if (checkBit(N, i)) {
+		N = N ^ (1 << i);
+	}
+}
+```
+
+- **Count the no of set bits in a Int**
+
+```js
+function countBit(N) {
+	count = 0;
+	for (let i = 0; i < 32; i++) {
+		if ((N & (1 << i)) > 0) {
+			count++;
+		}
+	}
+	return count;
+}
+```
