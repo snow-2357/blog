@@ -13,21 +13,26 @@ Fullstack Developer with 2 years of experience building efficient, scalable, and
 
 ### **CONTACT**
 
-<simantaray0@gmail.com>  
-[github.com/snow-2357](https://github.com/snow-2357)  
-[leetcode.com/u/simantaray/](https://leetcode.com/u/simantaray/)  
-[linkedin.com/in/simanta-ray-026556275/](https://www.linkedin.com/in/simanta-ray-026556275/)
+- **Email:** [simantaray0@gmail.com](mailto:simantaray0@gmail.com)
+- **GitHub:** [snow-2357](https://github.com/snow-2357)
+- **LeetCode:** [simantaray](https://leetcode.com/u/simantaray/)
+- **LinkedIn:** [Simanta Ray](https://www.linkedin.com/in/simanta-ray-026556275/)
 
 ### **WORK**
 
-**Hashtag Systems**  
-_May 2022 - PRESENT_  
-Fullstack Developer
+- **Hashtag Systems**  
+  _May 2022 - PRESENT_  
+  Fullstack Developer
+
+- **Class Plus**  
+  _Sep 2021 - Feb 2022_  
+  Intern
 
 ### **EDUCATION**
 
-**Central Institute of Technology, Kokrajhar**  
-_JUN 2017 - JUN 2021_  
+#### **Central Institute of Technology, Kokrajhar**
+
+_Jun 2017 - Jun 2021_  
 Computer Science and Engineering (Bachelor)  
 CGPA 7.35
 
